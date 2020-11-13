@@ -136,5 +136,8 @@
       }
     }
   },
-  "defaultProject": "ng-rtc-call-app"
+  "defaultProject": "ng-rtc-call-app",
+  "cli": {
+    "analytics": false
+  }
 }

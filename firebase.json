@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist",
+    "public": "dist/ng-rtc-call-app",
     "ignore": [
       "firebase.json",
       "**/.*",
